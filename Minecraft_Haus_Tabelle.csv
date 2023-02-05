@@ -1,0 +1,16 @@
+Name,Bad,Schlaf,Area,Etagen,Stadt,Kueche,Stadtteil,Province,Garten,Preis
+Villa_am_Park,0,2,140,2,Wuestenstatt-Doarff,1,Riverside,Wueste,True,4.13
+Standardbau,0,1,9,1,Wuestenstatt-Doarff,0.5,,Wueste,False,2.41
+Victorianische_Villa,1,2,810,3,Rolandshaven,1,Little London,Wald,True,12.6
+Tommys_Anwesen,0,6,2645,3,Oaktown,1,,Wald,True,33.15
+Killi,0,1,20,1,Kronberg,0.5,,Krone der Welt,False,2.47
+Filli,0,1,20,1,Kronberg,0.5,,Krone der Welt,False,2.5
+Ori,0,1,24,2,Kronberg,0.5,,Krone der Welt,False,2.54
+Gloin,0,1,27,1,Kronberg,0.5,,Krone der Welt,False,2.58
+Bofur,0,1,20,1,Kronberg,0.5,,Krone der Welt,False,2.60
+Bifur,0,2,58,2,Kronberg,0.5,,Krone der Welt,False,3.18
+Balin,0,1,58,2,Kronberg,0.5,,Krone der Welt,False,3.13
+Chriss_Anwesen,0,4,670,3,Seestadt,1,Seestadt,See,True,10.21
+Rolands_Anwesen,1,14,2744,4,Rolandshaven,1,Little London,Wald,True,35.24
+Fachwerk,0,2,180,3,Rolandshaven,1,Teatherwall,Wald,False,4.20
+Imeldas_Imobilienbuero,0,3,510,3,Rolandshaven,1,Schildsiedlung,Wald,True,5.53
