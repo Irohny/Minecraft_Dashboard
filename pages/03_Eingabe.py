@@ -11,7 +11,7 @@ def run():
 
     # create opening page and all sidetabs 
     st.title('Minecraft-Dashboard')
-    InputPage(df.copy())
+    InputPage()
 
 if __name__ == "__main__":
    run()
